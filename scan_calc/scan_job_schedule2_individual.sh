@@ -1,7 +1,7 @@
 #!/bin/bash
 
 i=1
-samNum=1
+samNum=19
 current=`pwd`
 
 while [ $i -le $samNum ]
